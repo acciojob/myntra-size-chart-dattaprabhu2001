@@ -1,2 +1,18 @@
+table {
+    border-collapse: collapse;
+    width: 70%;
+
+
+}
+
+th,
+td {
+    border: 1px solid black;
+    align-items: center;
+}
+
+th {
+    background-color: aqua;
+}
 
 /* Your CSS Code here. */
